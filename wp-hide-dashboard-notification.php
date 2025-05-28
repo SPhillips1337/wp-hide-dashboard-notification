@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: WP Hide Dashboard Notifications
- * Plugin URI: 
+ * Plugin URI: https://www.stephenphillips.co.uk
  * Description: Hides all WordPress admin dashboard notifications and cleans up the admin interface.
  * Version: 1.0.0
- * Author: 
- * Author URI: 
- * License: GPL-2.0+
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * Author: Stephen Phillips
+ * Author URI: https://www.stephenphillips.co.uk
+ * License: GPL-3.0+
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain: wp-hide-dashboard-notification
  */
 
