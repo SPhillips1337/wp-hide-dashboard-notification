@@ -1,0 +1,11 @@
+/* styles to remove dashboard plugin spam */
+/* Only hide .wrap on the dashboard page */
+body.index-php .wrap {
+    display: none !important;
+}
+body.index-php #dashboard-widgets-wrap {
+    display: none !important;
+}
+body.index-php .notice {
+    display: none !important;
+}
